@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main()
+  
+  //Ejemplo apuntadores usando ciclo For :v
 {
 int k;
 int *ptr;
