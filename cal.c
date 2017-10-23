@@ -1,6 +1,7 @@
 //Primer programa al que le pongo empeño :'v pero soy nub :'v 3:03AM 
 //xd use char para el menu, eso esta mal, quiza lo arregle :v
 //Funciona bien, solo, necesito optimizar el codigo hay demasiadas cosas de más
+//en cada funcion copie la funcion salir() xd
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
